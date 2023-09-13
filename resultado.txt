@@ -1,0 +1,2 @@
+Menor cadeia: N
+Tamanho: 1
